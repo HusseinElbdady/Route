@@ -1,0 +1,43 @@
+.hide
+{
+    display: none;
+}
+
+.slidText
+{
+    margin: 100px auto;
+    width: 50%;
+    
+}
+
+.slidText h2
+{
+    padding: 10px;
+    margin: 0;
+    background-color: rgba(114, 86, 21 , 0.6);
+    cursor: pointer;
+    color: white;
+}
+
+
+.slidText div
+{
+    padding: 10px;
+    background-color: rgb(100, 96, 21);
+}
+
+.btn
+{
+    background-color: #8a6868;
+    color: #ececec;
+}
+.textToRemove
+{
+    display: inline-block;
+}
+.countdown_timer
+{
+	background-color: rgb(100, 96, 21);
+	color: white;
+	font-size: 30px
+}
